@@ -1,6 +1,8 @@
 # Robot-Car-autonomous-ultrasonic-line-tracking-servo-scanning
 This project is an autonomous robotic car system built using an Arduino-compatible microcontroller.
 The robot is capable of navigating its environment by combining ultrasonic obstacle detection, servo-based scanning, and line tracking sensors to make real-time movement decisions.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8201fae7-62be-4f9c-9efc-c845cb57d858" />
+
 
 The system is designed as a foundation for IoT and intelligent robotics applications, simulating real-world autonomous navigation behavior.
 
